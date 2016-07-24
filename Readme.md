@@ -6,8 +6,8 @@ Mentions of this tools can also be found in [Lemma Management Techniques for Aut
 I had greate trouble in finding this tool, therefore I am uploading this so that it can help others. The original link for this tool is [ServiceTools](http://www.cs.miami.edu/~tptp/ServiceTools.tgz). It is listed on [this](http://www.cs.miami.edu/~tptp/) web page.
 
 ## User Guide from it's original web page
----
-<blockquote>
+
+```
 Prophet
 Designed and Implemented by Yury Puzis
 
@@ -69,5 +69,6 @@ simple          -d union -w trivial -v ignore -s split -i ppt -n 7 -c indirect
 
  AUTHOR                                                                                                                                                                                                                                              Yury Puzis (C) 2004 and the ART team
 
-</blockquote>
+```
+
 Hope it helps!
